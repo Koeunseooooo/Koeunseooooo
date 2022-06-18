@@ -1,8 +1,10 @@
+### Welcome My Space!
+
+Hi there 🙌🏻, I'm Eunseo Ko, a Repulic of korea   
+I'm a college student and I want to be a software developer👩🏻‍💻.
+
+- 🌱 Interesting on Front-end | Back-end | Data-engineering
+- 🤙 This is my [velog](https://velog.io/@rhdmstj17)
 
 
-<!-- <div align="center"> -->
- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeunseooooo)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
- 
-<!-- </div> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeunseooooo)](https://github.com/anuraghazra/github-readme-stats)
