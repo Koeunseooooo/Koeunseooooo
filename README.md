@@ -3,7 +3,7 @@
 Hi there 🙌🏻, I'm Eunseo Ko, a Repulic of korea   
 I'm a college student and I want to be a software developer👩🏻‍💻.
 
-- 🌱 Interesting on Front-end | Back-end | Data-engineering
+- 🌱 Interesting on Front-end 
 - 🤙 This is my [velog](https://velog.io/@rhdmstj17)
 
 
