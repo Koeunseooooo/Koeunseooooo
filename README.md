@@ -1,20 +1,36 @@
+<h1 align="center">Eunseo Ko</h1>
+
+
+<h4>👩🏻‍🎓 Chung-Ang Univ. Software Engineering</h4>
+<h4>👩🏻‍💻 Web Front-End Engineer</h4>
+
+* <b>(주)링글 잉글리시 에듀케이션 서비스 Front-end Intern</b>  (2023.3 ~ 2023.6) <br>
+
+
+<h4> 👀 I’m interested in..</h4>
+
+* Front-end <br>
+* Cloud Architecture 
+
+<h4>🌱 I’m currently learning..</h4>
+
+* Javscript <br>
+* Next.js <br>
+
+---
 
 
 <div align="center"> 
-
-####  :wave: Welcome my github profile !
-
   
- <br/>
- <br/>
-  
-####  :clipboard: Once I've Used 
+    
+####  :clipboard: Tech Stack
   
  <br/>
   
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/ReactQuery-E34F26?style=for-the-badge&logo=ReactQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white">
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=Styled-Components&logoColor=white">
@@ -32,7 +48,8 @@
  
 #### :pencil2: Study log
  <a href="https://velog.io/@rhdmstj17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rhdmstj17"/></a>
-  <br>
+ <br>
+  
 #### 📈 Stats
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhdmstj1740)](https://solved.ac/rhdmstj1740) <br> <br>
