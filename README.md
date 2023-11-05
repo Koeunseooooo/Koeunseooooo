@@ -9,13 +9,15 @@
 
 <h4> 👀 I’m interested in..</h4>
 
-* Front-end <br>
-* Cloud Architecture 
+* Front-end  <br>
+* Cloud Architecture <br>
+* Server Side Rendering
+* FE Article !
 
 <h4>🌱 I’m currently learning..</h4>
 
-* Javscript <br>
 * Next.js <br>
+* AWS Services
 
 ---
 
