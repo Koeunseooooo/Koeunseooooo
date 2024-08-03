@@ -5,6 +5,7 @@
 <h4>👩🏻‍💻 Web Front-End Engineer</h4>
 
 * <b>(주)링글 잉글리시 에듀케이션 서비스 Front-end Intern</b>  (2023.3 ~ 2023.6) <br>
+* <b> Hyundai Autoever Front-end Engineer </b>  (2024.1 ~ ing) <br>
 
 
 <h4> 👀 I’m interested in..</h4>
