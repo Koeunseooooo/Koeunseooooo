@@ -13,7 +13,7 @@
 * Front-end  <br>
 * Cloud Architecture <br>
 * Server Side Rendering
-* FE Article !
+* FE Article 
 
 <h4>🌱 I’m currently learning..</h4>
 
