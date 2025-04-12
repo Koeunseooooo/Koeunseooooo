@@ -15,11 +15,6 @@
 * Server Side Rendering
 * FE Article 
 
-<h4>🌱 I’m currently learning..</h4>
-
-* Next.js <br>
-* AWS Services
-
 ---
 
 
